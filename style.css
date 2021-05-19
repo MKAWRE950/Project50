@@ -1,0 +1,17 @@
+h1{
+    color:coral
+}
+.header{
+    background-color: black;
+    display:flex;
+    justify-content:space-between ;
+}
+.grid{
+    display:flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+}
+.menu{
+    background-color:dimgray;
+    text-align: center;
+}
